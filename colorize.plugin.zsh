@@ -23,9 +23,9 @@ export GCC_COLORS
 export LESS="-r -M $LESS"
 
 export LESS_TERMCAP_mb="${c[green]}" # start blink
-export LESS_TERMCAP_md="${c[bold]}${c[springgreen]}${c[coursive]}" # start bold
+export LESS_TERMCAP_md="${c[bold]}${c[azure]}${c[coursive]}" # start bold
 export LESS_TERMCAP_so="${c[bold]}${c[bg_yellow]}${c[black]}" # start standout
-export LESS_TERMCAP_us="${c[underline]}${c[azure]}" # start underline
+export LESS_TERMCAP_us="${c[underline]}${c[springgreen]}" # start underline
 
 export LESS_TERMCAP_ue="${c[reset]}"
 export LESS_TERMCAP_me="${c[reset]}"
